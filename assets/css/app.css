@@ -1,0 +1,13 @@
+.error {
+    color: red;
+}
+#result{
+    margin-top:30px;
+}
+.table{
+    color: red;
+}
+.success{
+    color:green !important;
+    margin-bottom:10px;
+}
